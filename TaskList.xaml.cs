@@ -11,7 +11,7 @@ namespace KaracanTestCase
         {
             InitializeComponent();
             this.taskService = taskService;
-            TaskListView.ItemsSource = taskService.GetTasks();
+            LoadTasks();
         }
         private void LoadTasks()
         {

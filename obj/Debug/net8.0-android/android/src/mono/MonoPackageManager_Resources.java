@@ -4,6 +4,7 @@ public class MonoPackageManager_Resources {
 		/* We need to ensure that "KaracanTestCase.dll" comes first in this list. */
 		"KaracanTestCase.dll",
 		"GoogleGson.dll",
+		"LiteDB.dll",
 		"Microsoft.Extensions.Configuration.dll",
 		"Microsoft.Extensions.Configuration.Abstractions.dll",
 		"Microsoft.Extensions.DependencyInjection.dll",

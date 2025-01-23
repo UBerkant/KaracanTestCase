@@ -15,6 +15,22 @@
           }
         }
       },
+      "LiteDB/5.0.21": {
+        "type": "package",
+        "dependencies": {
+          "System.Buffers": "4.5.1"
+        },
+        "compile": {
+          "lib/netstandard2.0/LiteDB.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/LiteDB.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Microsoft.Extensions.Configuration/8.0.0": {
         "type": "package",
         "dependencies": {
@@ -443,6 +459,15 @@
         "type": "package",
         "build": {
           "build/Microsoft.NET.ILLink.Tasks.props": {}
+        }
+      },
+      "System.Buffers/4.5.1": {
+        "type": "package",
+        "compile": {
+          "ref/netcoreapp2.0/_._": {}
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/_._": {}
         }
       },
       "Xamarin.Android.Glide/4.15.1.2": {
@@ -2222,6 +2247,22 @@
           }
         }
       },
+      "LiteDB/5.0.21": {
+        "type": "package",
+        "dependencies": {
+          "System.Buffers": "4.5.1"
+        },
+        "compile": {
+          "lib/netstandard2.0/LiteDB.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/LiteDB.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Microsoft.Extensions.Configuration/8.0.0": {
         "type": "package",
         "dependencies": {
@@ -2650,6 +2691,15 @@
         "type": "package",
         "build": {
           "build/Microsoft.NET.ILLink.Tasks.props": {}
+        }
+      },
+      "System.Buffers/4.5.1": {
+        "type": "package",
+        "compile": {
+          "ref/netcoreapp2.0/_._": {}
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/_._": {}
         }
       },
       "Xamarin.Android.Glide/4.15.1.2": {
@@ -4429,6 +4479,22 @@
           }
         }
       },
+      "LiteDB/5.0.21": {
+        "type": "package",
+        "dependencies": {
+          "System.Buffers": "4.5.1"
+        },
+        "compile": {
+          "lib/netstandard2.0/LiteDB.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/LiteDB.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Microsoft.Extensions.Configuration/8.0.0": {
         "type": "package",
         "dependencies": {
@@ -4857,6 +4923,15 @@
         "type": "package",
         "build": {
           "build/Microsoft.NET.ILLink.Tasks.props": {}
+        }
+      },
+      "System.Buffers/4.5.1": {
+        "type": "package",
+        "compile": {
+          "ref/netcoreapp2.0/_._": {}
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/_._": {}
         }
       },
       "Xamarin.Android.Glide/4.15.1.2": {
@@ -6636,6 +6711,22 @@
           }
         }
       },
+      "LiteDB/5.0.21": {
+        "type": "package",
+        "dependencies": {
+          "System.Buffers": "4.5.1"
+        },
+        "compile": {
+          "lib/netstandard2.0/LiteDB.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/LiteDB.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Microsoft.Extensions.Configuration/8.0.0": {
         "type": "package",
         "dependencies": {
@@ -7064,6 +7155,15 @@
         "type": "package",
         "build": {
           "build/Microsoft.NET.ILLink.Tasks.props": {}
+        }
+      },
+      "System.Buffers/4.5.1": {
+        "type": "package",
+        "compile": {
+          "ref/netcoreapp2.0/_._": {}
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/_._": {}
         }
       },
       "Xamarin.Android.Glide/4.15.1.2": {
@@ -8843,6 +8943,22 @@
           }
         }
       },
+      "LiteDB/5.0.21": {
+        "type": "package",
+        "dependencies": {
+          "System.Buffers": "4.5.1"
+        },
+        "compile": {
+          "lib/netstandard2.0/LiteDB.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/LiteDB.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Microsoft.Extensions.Configuration/8.0.0": {
         "type": "package",
         "dependencies": {
@@ -9271,6 +9387,15 @@
         "type": "package",
         "build": {
           "build/Microsoft.NET.ILLink.Tasks.props": {}
+        }
+      },
+      "System.Buffers/4.5.1": {
+        "type": "package",
+        "compile": {
+          "ref/netcoreapp2.0/_._": {}
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/_._": {}
         }
       },
       "Xamarin.Android.Glide/4.15.1.2": {
@@ -11050,6 +11175,22 @@
           }
         }
       },
+      "LiteDB/5.0.21": {
+        "type": "package",
+        "dependencies": {
+          "System.Buffers": "4.5.1"
+        },
+        "compile": {
+          "lib/netstandard2.0/LiteDB.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/LiteDB.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Microsoft.Extensions.Configuration/8.0.0": {
         "type": "package",
         "dependencies": {
@@ -11478,6 +11619,15 @@
         "type": "package",
         "build": {
           "build/Microsoft.NET.ILLink.Tasks.props": {}
+        }
+      },
+      "System.Buffers/4.5.1": {
+        "type": "package",
+        "compile": {
+          "ref/netcoreapp2.0/_._": {}
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/_._": {}
         }
       },
       "Xamarin.Android.Glide/4.15.1.2": {
@@ -13257,6 +13407,22 @@
           }
         }
       },
+      "LiteDB/5.0.21": {
+        "type": "package",
+        "dependencies": {
+          "System.Buffers": "4.5.1"
+        },
+        "compile": {
+          "lib/netstandard2.0/LiteDB.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/LiteDB.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Microsoft.Extensions.Configuration/8.0.0": {
         "type": "package",
         "dependencies": {
@@ -13685,6 +13851,15 @@
         "type": "package",
         "build": {
           "build/Microsoft.NET.ILLink.Tasks.props": {}
+        }
+      },
+      "System.Buffers/4.5.1": {
+        "type": "package",
+        "compile": {
+          "ref/netcoreapp2.0/_._": {}
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/_._": {}
         }
       },
       "Xamarin.Android.Glide/4.15.1.2": {
@@ -15464,6 +15639,22 @@
           }
         }
       },
+      "LiteDB/5.0.21": {
+        "type": "package",
+        "dependencies": {
+          "System.Buffers": "4.5.1"
+        },
+        "compile": {
+          "lib/netstandard2.0/LiteDB.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/LiteDB.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Microsoft.Extensions.Configuration/8.0.0": {
         "type": "package",
         "dependencies": {
@@ -15892,6 +16083,15 @@
         "type": "package",
         "build": {
           "build/Microsoft.NET.ILLink.Tasks.props": {}
+        }
+      },
+      "System.Buffers/4.5.1": {
+        "type": "package",
+        "compile": {
+          "ref/netcoreapp2.0/_._": {}
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/_._": {}
         }
       },
       "Xamarin.Android.Glide/4.15.1.2": {
@@ -17658,6 +17858,22 @@
       }
     },
     "net8.0-ios18.0": {
+      "LiteDB/5.0.21": {
+        "type": "package",
+        "dependencies": {
+          "System.Buffers": "4.5.1"
+        },
+        "compile": {
+          "lib/netstandard2.0/LiteDB.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/LiteDB.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Microsoft.Extensions.Configuration/8.0.0": {
         "type": "package",
         "dependencies": {
@@ -18075,10 +18291,35 @@
         "type": "package",
         "build": {
           "build/Microsoft.NET.ILLink.Tasks.props": {}
+        }
+      },
+      "System.Buffers/4.5.1": {
+        "type": "package",
+        "compile": {
+          "ref/netcoreapp2.0/_._": {}
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/_._": {}
         }
       }
     },
     "net8.0-ios18.0/android-arm": {
+      "LiteDB/5.0.21": {
+        "type": "package",
+        "dependencies": {
+          "System.Buffers": "4.5.1"
+        },
+        "compile": {
+          "lib/netstandard2.0/LiteDB.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/LiteDB.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Microsoft.Extensions.Configuration/8.0.0": {
         "type": "package",
         "dependencies": {
@@ -18496,10 +18737,35 @@
         "type": "package",
         "build": {
           "build/Microsoft.NET.ILLink.Tasks.props": {}
+        }
+      },
+      "System.Buffers/4.5.1": {
+        "type": "package",
+        "compile": {
+          "ref/netcoreapp2.0/_._": {}
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/_._": {}
         }
       }
     },
     "net8.0-ios18.0/android-arm64": {
+      "LiteDB/5.0.21": {
+        "type": "package",
+        "dependencies": {
+          "System.Buffers": "4.5.1"
+        },
+        "compile": {
+          "lib/netstandard2.0/LiteDB.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/LiteDB.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Microsoft.Extensions.Configuration/8.0.0": {
         "type": "package",
         "dependencies": {
@@ -18917,10 +19183,35 @@
         "type": "package",
         "build": {
           "build/Microsoft.NET.ILLink.Tasks.props": {}
+        }
+      },
+      "System.Buffers/4.5.1": {
+        "type": "package",
+        "compile": {
+          "ref/netcoreapp2.0/_._": {}
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/_._": {}
         }
       }
     },
     "net8.0-ios18.0/android-x64": {
+      "LiteDB/5.0.21": {
+        "type": "package",
+        "dependencies": {
+          "System.Buffers": "4.5.1"
+        },
+        "compile": {
+          "lib/netstandard2.0/LiteDB.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/LiteDB.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Microsoft.Extensions.Configuration/8.0.0": {
         "type": "package",
         "dependencies": {
@@ -19338,10 +19629,35 @@
         "type": "package",
         "build": {
           "build/Microsoft.NET.ILLink.Tasks.props": {}
+        }
+      },
+      "System.Buffers/4.5.1": {
+        "type": "package",
+        "compile": {
+          "ref/netcoreapp2.0/_._": {}
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/_._": {}
         }
       }
     },
     "net8.0-ios18.0/android-x86": {
+      "LiteDB/5.0.21": {
+        "type": "package",
+        "dependencies": {
+          "System.Buffers": "4.5.1"
+        },
+        "compile": {
+          "lib/netstandard2.0/LiteDB.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/LiteDB.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Microsoft.Extensions.Configuration/8.0.0": {
         "type": "package",
         "dependencies": {
@@ -19759,10 +20075,35 @@
         "type": "package",
         "build": {
           "build/Microsoft.NET.ILLink.Tasks.props": {}
+        }
+      },
+      "System.Buffers/4.5.1": {
+        "type": "package",
+        "compile": {
+          "ref/netcoreapp2.0/_._": {}
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/_._": {}
         }
       }
     },
     "net8.0-ios18.0/iossimulator-x64": {
+      "LiteDB/5.0.21": {
+        "type": "package",
+        "dependencies": {
+          "System.Buffers": "4.5.1"
+        },
+        "compile": {
+          "lib/netstandard2.0/LiteDB.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/LiteDB.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Microsoft.Extensions.Configuration/8.0.0": {
         "type": "package",
         "dependencies": {
@@ -20180,10 +20521,35 @@
         "type": "package",
         "build": {
           "build/Microsoft.NET.ILLink.Tasks.props": {}
+        }
+      },
+      "System.Buffers/4.5.1": {
+        "type": "package",
+        "compile": {
+          "ref/netcoreapp2.0/_._": {}
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/_._": {}
         }
       }
     },
     "net8.0-ios18.0/maccatalyst-x64": {
+      "LiteDB/5.0.21": {
+        "type": "package",
+        "dependencies": {
+          "System.Buffers": "4.5.1"
+        },
+        "compile": {
+          "lib/netstandard2.0/LiteDB.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/LiteDB.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Microsoft.Extensions.Configuration/8.0.0": {
         "type": "package",
         "dependencies": {
@@ -20601,10 +20967,35 @@
         "type": "package",
         "build": {
           "build/Microsoft.NET.ILLink.Tasks.props": {}
+        }
+      },
+      "System.Buffers/4.5.1": {
+        "type": "package",
+        "compile": {
+          "ref/netcoreapp2.0/_._": {}
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/_._": {}
         }
       }
     },
     "net8.0-ios18.0/win10-x64": {
+      "LiteDB/5.0.21": {
+        "type": "package",
+        "dependencies": {
+          "System.Buffers": "4.5.1"
+        },
+        "compile": {
+          "lib/netstandard2.0/LiteDB.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/LiteDB.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Microsoft.Extensions.Configuration/8.0.0": {
         "type": "package",
         "dependencies": {
@@ -21023,9 +21414,34 @@
         "build": {
           "build/Microsoft.NET.ILLink.Tasks.props": {}
         }
+      },
+      "System.Buffers/4.5.1": {
+        "type": "package",
+        "compile": {
+          "ref/netcoreapp2.0/_._": {}
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/_._": {}
+        }
       }
     },
     "net8.0-maccatalyst18.0": {
+      "LiteDB/5.0.21": {
+        "type": "package",
+        "dependencies": {
+          "System.Buffers": "4.5.1"
+        },
+        "compile": {
+          "lib/netstandard2.0/LiteDB.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/LiteDB.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Microsoft.Extensions.Configuration/8.0.0": {
         "type": "package",
         "dependencies": {
@@ -21443,10 +21859,35 @@
         "type": "package",
         "build": {
           "build/Microsoft.NET.ILLink.Tasks.props": {}
+        }
+      },
+      "System.Buffers/4.5.1": {
+        "type": "package",
+        "compile": {
+          "ref/netcoreapp2.0/_._": {}
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/_._": {}
         }
       }
     },
     "net8.0-maccatalyst18.0/android-arm": {
+      "LiteDB/5.0.21": {
+        "type": "package",
+        "dependencies": {
+          "System.Buffers": "4.5.1"
+        },
+        "compile": {
+          "lib/netstandard2.0/LiteDB.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/LiteDB.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Microsoft.Extensions.Configuration/8.0.0": {
         "type": "package",
         "dependencies": {
@@ -21864,10 +22305,35 @@
         "type": "package",
         "build": {
           "build/Microsoft.NET.ILLink.Tasks.props": {}
+        }
+      },
+      "System.Buffers/4.5.1": {
+        "type": "package",
+        "compile": {
+          "ref/netcoreapp2.0/_._": {}
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/_._": {}
         }
       }
     },
     "net8.0-maccatalyst18.0/android-arm64": {
+      "LiteDB/5.0.21": {
+        "type": "package",
+        "dependencies": {
+          "System.Buffers": "4.5.1"
+        },
+        "compile": {
+          "lib/netstandard2.0/LiteDB.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/LiteDB.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Microsoft.Extensions.Configuration/8.0.0": {
         "type": "package",
         "dependencies": {
@@ -22285,10 +22751,35 @@
         "type": "package",
         "build": {
           "build/Microsoft.NET.ILLink.Tasks.props": {}
+        }
+      },
+      "System.Buffers/4.5.1": {
+        "type": "package",
+        "compile": {
+          "ref/netcoreapp2.0/_._": {}
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/_._": {}
         }
       }
     },
     "net8.0-maccatalyst18.0/android-x64": {
+      "LiteDB/5.0.21": {
+        "type": "package",
+        "dependencies": {
+          "System.Buffers": "4.5.1"
+        },
+        "compile": {
+          "lib/netstandard2.0/LiteDB.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/LiteDB.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Microsoft.Extensions.Configuration/8.0.0": {
         "type": "package",
         "dependencies": {
@@ -22706,10 +23197,35 @@
         "type": "package",
         "build": {
           "build/Microsoft.NET.ILLink.Tasks.props": {}
+        }
+      },
+      "System.Buffers/4.5.1": {
+        "type": "package",
+        "compile": {
+          "ref/netcoreapp2.0/_._": {}
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/_._": {}
         }
       }
     },
     "net8.0-maccatalyst18.0/android-x86": {
+      "LiteDB/5.0.21": {
+        "type": "package",
+        "dependencies": {
+          "System.Buffers": "4.5.1"
+        },
+        "compile": {
+          "lib/netstandard2.0/LiteDB.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/LiteDB.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Microsoft.Extensions.Configuration/8.0.0": {
         "type": "package",
         "dependencies": {
@@ -23127,10 +23643,35 @@
         "type": "package",
         "build": {
           "build/Microsoft.NET.ILLink.Tasks.props": {}
+        }
+      },
+      "System.Buffers/4.5.1": {
+        "type": "package",
+        "compile": {
+          "ref/netcoreapp2.0/_._": {}
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/_._": {}
         }
       }
     },
     "net8.0-maccatalyst18.0/iossimulator-x64": {
+      "LiteDB/5.0.21": {
+        "type": "package",
+        "dependencies": {
+          "System.Buffers": "4.5.1"
+        },
+        "compile": {
+          "lib/netstandard2.0/LiteDB.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/LiteDB.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Microsoft.Extensions.Configuration/8.0.0": {
         "type": "package",
         "dependencies": {
@@ -23548,10 +24089,35 @@
         "type": "package",
         "build": {
           "build/Microsoft.NET.ILLink.Tasks.props": {}
+        }
+      },
+      "System.Buffers/4.5.1": {
+        "type": "package",
+        "compile": {
+          "ref/netcoreapp2.0/_._": {}
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/_._": {}
         }
       }
     },
     "net8.0-maccatalyst18.0/maccatalyst-x64": {
+      "LiteDB/5.0.21": {
+        "type": "package",
+        "dependencies": {
+          "System.Buffers": "4.5.1"
+        },
+        "compile": {
+          "lib/netstandard2.0/LiteDB.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/LiteDB.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Microsoft.Extensions.Configuration/8.0.0": {
         "type": "package",
         "dependencies": {
@@ -23969,10 +24535,35 @@
         "type": "package",
         "build": {
           "build/Microsoft.NET.ILLink.Tasks.props": {}
+        }
+      },
+      "System.Buffers/4.5.1": {
+        "type": "package",
+        "compile": {
+          "ref/netcoreapp2.0/_._": {}
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/_._": {}
         }
       }
     },
     "net8.0-maccatalyst18.0/win10-x64": {
+      "LiteDB/5.0.21": {
+        "type": "package",
+        "dependencies": {
+          "System.Buffers": "4.5.1"
+        },
+        "compile": {
+          "lib/netstandard2.0/LiteDB.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/LiteDB.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Microsoft.Extensions.Configuration/8.0.0": {
         "type": "package",
         "dependencies": {
@@ -24391,9 +24982,34 @@
         "build": {
           "build/Microsoft.NET.ILLink.Tasks.props": {}
         }
+      },
+      "System.Buffers/4.5.1": {
+        "type": "package",
+        "compile": {
+          "ref/netcoreapp2.0/_._": {}
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/_._": {}
+        }
       }
     },
     "net8.0-windows10.0.19041": {
+      "LiteDB/5.0.21": {
+        "type": "package",
+        "dependencies": {
+          "System.Buffers": "4.5.1"
+        },
+        "compile": {
+          "lib/netstandard2.0/LiteDB.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/LiteDB.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Microsoft.Extensions.Configuration/8.0.0": {
         "type": "package",
         "dependencies": {
@@ -24981,9 +25597,34 @@
             "rid": "win10-x86"
           }
         }
+      },
+      "System.Buffers/4.5.1": {
+        "type": "package",
+        "compile": {
+          "ref/netcoreapp2.0/_._": {}
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/_._": {}
+        }
       }
     },
     "net8.0-windows10.0.19041/android-arm": {
+      "LiteDB/5.0.21": {
+        "type": "package",
+        "dependencies": {
+          "System.Buffers": "4.5.1"
+        },
+        "compile": {
+          "lib/netstandard2.0/LiteDB.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/LiteDB.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Microsoft.Extensions.Configuration/8.0.0": {
         "type": "package",
         "dependencies": {
@@ -25530,10 +26171,35 @@
         "build": {
           "buildTransitive/Microsoft.WindowsAppSDK.props": {},
           "buildTransitive/Microsoft.WindowsAppSDK.targets": {}
+        }
+      },
+      "System.Buffers/4.5.1": {
+        "type": "package",
+        "compile": {
+          "ref/netcoreapp2.0/_._": {}
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/_._": {}
         }
       }
     },
     "net8.0-windows10.0.19041/android-arm64": {
+      "LiteDB/5.0.21": {
+        "type": "package",
+        "dependencies": {
+          "System.Buffers": "4.5.1"
+        },
+        "compile": {
+          "lib/netstandard2.0/LiteDB.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/LiteDB.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Microsoft.Extensions.Configuration/8.0.0": {
         "type": "package",
         "dependencies": {
@@ -26080,10 +26746,35 @@
         "build": {
           "buildTransitive/Microsoft.WindowsAppSDK.props": {},
           "buildTransitive/Microsoft.WindowsAppSDK.targets": {}
+        }
+      },
+      "System.Buffers/4.5.1": {
+        "type": "package",
+        "compile": {
+          "ref/netcoreapp2.0/_._": {}
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/_._": {}
         }
       }
     },
     "net8.0-windows10.0.19041/android-x64": {
+      "LiteDB/5.0.21": {
+        "type": "package",
+        "dependencies": {
+          "System.Buffers": "4.5.1"
+        },
+        "compile": {
+          "lib/netstandard2.0/LiteDB.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/LiteDB.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Microsoft.Extensions.Configuration/8.0.0": {
         "type": "package",
         "dependencies": {
@@ -26630,10 +27321,35 @@
         "build": {
           "buildTransitive/Microsoft.WindowsAppSDK.props": {},
           "buildTransitive/Microsoft.WindowsAppSDK.targets": {}
+        }
+      },
+      "System.Buffers/4.5.1": {
+        "type": "package",
+        "compile": {
+          "ref/netcoreapp2.0/_._": {}
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/_._": {}
         }
       }
     },
     "net8.0-windows10.0.19041/android-x86": {
+      "LiteDB/5.0.21": {
+        "type": "package",
+        "dependencies": {
+          "System.Buffers": "4.5.1"
+        },
+        "compile": {
+          "lib/netstandard2.0/LiteDB.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/LiteDB.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Microsoft.Extensions.Configuration/8.0.0": {
         "type": "package",
         "dependencies": {
@@ -27180,10 +27896,35 @@
         "build": {
           "buildTransitive/Microsoft.WindowsAppSDK.props": {},
           "buildTransitive/Microsoft.WindowsAppSDK.targets": {}
+        }
+      },
+      "System.Buffers/4.5.1": {
+        "type": "package",
+        "compile": {
+          "ref/netcoreapp2.0/_._": {}
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/_._": {}
         }
       }
     },
     "net8.0-windows10.0.19041/iossimulator-x64": {
+      "LiteDB/5.0.21": {
+        "type": "package",
+        "dependencies": {
+          "System.Buffers": "4.5.1"
+        },
+        "compile": {
+          "lib/netstandard2.0/LiteDB.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/LiteDB.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Microsoft.Extensions.Configuration/8.0.0": {
         "type": "package",
         "dependencies": {
@@ -27730,10 +28471,35 @@
         "build": {
           "buildTransitive/Microsoft.WindowsAppSDK.props": {},
           "buildTransitive/Microsoft.WindowsAppSDK.targets": {}
+        }
+      },
+      "System.Buffers/4.5.1": {
+        "type": "package",
+        "compile": {
+          "ref/netcoreapp2.0/_._": {}
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/_._": {}
         }
       }
     },
     "net8.0-windows10.0.19041/maccatalyst-x64": {
+      "LiteDB/5.0.21": {
+        "type": "package",
+        "dependencies": {
+          "System.Buffers": "4.5.1"
+        },
+        "compile": {
+          "lib/netstandard2.0/LiteDB.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/LiteDB.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Microsoft.Extensions.Configuration/8.0.0": {
         "type": "package",
         "dependencies": {
@@ -28281,9 +29047,34 @@
           "buildTransitive/Microsoft.WindowsAppSDK.props": {},
           "buildTransitive/Microsoft.WindowsAppSDK.targets": {}
         }
+      },
+      "System.Buffers/4.5.1": {
+        "type": "package",
+        "compile": {
+          "ref/netcoreapp2.0/_._": {}
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/_._": {}
+        }
       }
     },
     "net8.0-windows10.0.19041/win10-x64": {
+      "LiteDB/5.0.21": {
+        "type": "package",
+        "dependencies": {
+          "System.Buffers": "4.5.1"
+        },
+        "compile": {
+          "lib/netstandard2.0/LiteDB.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/LiteDB.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Microsoft.Extensions.Configuration/8.0.0": {
         "type": "package",
         "dependencies": {
@@ -28837,6 +29628,15 @@
           "buildTransitive/Microsoft.WindowsAppSDK.props": {},
           "buildTransitive/Microsoft.WindowsAppSDK.targets": {}
         }
+      },
+      "System.Buffers/4.5.1": {
+        "type": "package",
+        "compile": {
+          "ref/netcoreapp2.0/_._": {}
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/_._": {}
+        }
       }
     }
   },
@@ -28857,6 +29657,26 @@
         "lib/net6.0-android31.0/GoogleGson.aar",
         "lib/net6.0-android31.0/GoogleGson.dll",
         "lib/net6.0-android31.0/GoogleGson.xml"
+      ]
+    },
+    "LiteDB/5.0.21": {
+      "sha512": "ykJ7ffFl7P9YQKR/PLci6zupiLrsSCNkOTiw6OtzntH7d2kCYp5L1+3a/pksKgTEHcJBoPXFtg7VZSGVBseN9w==",
+      "type": "package",
+      "path": "litedb/5.0.21",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "AppVeyorSettings.json",
+        "LICENSE",
+        "icon_64x64.png",
+        "lib/net45/LiteDB.dll",
+        "lib/net45/LiteDB.xml",
+        "lib/netstandard1.3/LiteDB.dll",
+        "lib/netstandard1.3/LiteDB.xml",
+        "lib/netstandard2.0/LiteDB.dll",
+        "lib/netstandard2.0/LiteDB.xml",
+        "litedb.5.0.21.nupkg.sha512",
+        "litedb.nuspec"
       ]
     },
     "Microsoft.Extensions.Configuration/8.0.0": {
@@ -31097,6 +31917,37 @@
         "tools/x86/GenXbf.dll"
       ]
     },
+    "System.Buffers/4.5.1": {
+      "sha512": "Rw7ijyl1qqRS0YQD/WycNst8hUUMgrMH4FCn1nNm27M4VxchZ1js3fVjQaANHO5f3sN4isvP4a+Met9Y4YomAg==",
+      "type": "package",
+      "path": "system.buffers/4.5.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/net461/System.Buffers.dll",
+        "lib/net461/System.Buffers.xml",
+        "lib/netcoreapp2.0/_._",
+        "lib/netstandard1.1/System.Buffers.dll",
+        "lib/netstandard1.1/System.Buffers.xml",
+        "lib/netstandard2.0/System.Buffers.dll",
+        "lib/netstandard2.0/System.Buffers.xml",
+        "lib/uap10.0.16299/_._",
+        "ref/net45/System.Buffers.dll",
+        "ref/net45/System.Buffers.xml",
+        "ref/netcoreapp2.0/_._",
+        "ref/netstandard1.1/System.Buffers.dll",
+        "ref/netstandard1.1/System.Buffers.xml",
+        "ref/netstandard2.0/System.Buffers.dll",
+        "ref/netstandard2.0/System.Buffers.xml",
+        "ref/uap10.0.16299/_._",
+        "system.buffers.4.5.1.nupkg.sha512",
+        "system.buffers.nuspec",
+        "useSharedDesignerContext.txt",
+        "version.txt"
+      ]
+    },
     "Xamarin.Android.Glide/4.15.1.2": {
       "sha512": "DcekP+BXm4jFMV7zjHEltj01uiXcItq1kjGa79pj/Vx1rk3Ac2VXdmwGw06HXDP8n2XZsDh8dAoSI48G4KODRA==",
       "type": "package",
@@ -33137,24 +33988,28 @@
   },
   "projectFileDependencyGroups": {
     "net8.0-android34.0": [
+      "LiteDB >= 5.0.21",
       "Microsoft.Extensions.Logging.Debug >= 8.0.1",
       "Microsoft.Maui.Controls >= 8.0.100",
       "Microsoft.Maui.Controls.Compatibility >= 8.0.100",
       "Microsoft.NET.ILLink.Tasks >= 8.0.12"
     ],
     "net8.0-ios18.0": [
+      "LiteDB >= 5.0.21",
       "Microsoft.Extensions.Logging.Debug >= 8.0.1",
       "Microsoft.Maui.Controls >= 8.0.100",
       "Microsoft.Maui.Controls.Compatibility >= 8.0.100",
       "Microsoft.NET.ILLink.Tasks >= 8.0.12"
     ],
     "net8.0-maccatalyst18.0": [
+      "LiteDB >= 5.0.21",
       "Microsoft.Extensions.Logging.Debug >= 8.0.1",
       "Microsoft.Maui.Controls >= 8.0.100",
       "Microsoft.Maui.Controls.Compatibility >= 8.0.100",
       "Microsoft.NET.ILLink.Tasks >= 8.0.12"
     ],
     "net8.0-windows10.0.19041": [
+      "LiteDB >= 5.0.21",
       "Microsoft.Extensions.Logging.Debug >= 8.0.1",
       "Microsoft.Maui.Controls >= 8.0.100",
       "Microsoft.Maui.Controls.Compatibility >= 8.0.100"
@@ -33167,11 +34022,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\TestCase\\KaracanTestCase\\KaracanTestCase.csproj",
+      "projectUniqueName": "D:\\UgurBerkantEdiz\\TestCase\\KaracanTestCase\\KaracanTestCase.csproj",
       "projectName": "KaracanTestCase",
-      "projectPath": "D:\\TestCase\\KaracanTestCase\\KaracanTestCase.csproj",
+      "projectPath": "D:\\UgurBerkantEdiz\\TestCase\\KaracanTestCase\\KaracanTestCase.csproj",
       "packagesPath": "C:\\Users\\berka\\.nuget\\packages\\",
-      "outputPath": "D:\\TestCase\\KaracanTestCase\\obj\\",
+      "outputPath": "D:\\UgurBerkantEdiz\\TestCase\\KaracanTestCase\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [
@@ -33227,6 +34082,10 @@
       "net8.0-android34.0": {
         "targetAlias": "net8.0-android",
         "dependencies": {
+          "LiteDB": {
+            "target": "Package",
+            "version": "[5.0.21, )"
+          },
           "Microsoft.Extensions.Logging.Debug": {
             "target": "Package",
             "version": "[8.0.1, )"
@@ -33292,6 +34151,10 @@
       "net8.0-ios18.0": {
         "targetAlias": "net8.0-ios",
         "dependencies": {
+          "LiteDB": {
+            "target": "Package",
+            "version": "[5.0.21, )"
+          },
           "Microsoft.Extensions.Logging.Debug": {
             "target": "Package",
             "version": "[8.0.1, )"
@@ -33345,6 +34208,10 @@
       "net8.0-maccatalyst18.0": {
         "targetAlias": "net8.0-maccatalyst",
         "dependencies": {
+          "LiteDB": {
+            "target": "Package",
+            "version": "[5.0.21, )"
+          },
           "Microsoft.Extensions.Logging.Debug": {
             "target": "Package",
             "version": "[8.0.1, )"
@@ -33399,6 +34266,10 @@
       "net8.0-windows10.0.19041": {
         "targetAlias": "net8.0-windows10.0.19041.0",
         "dependencies": {
+          "LiteDB": {
+            "target": "Package",
+            "version": "[5.0.21, )"
+          },
           "Microsoft.Extensions.Logging.Debug": {
             "target": "Package",
             "version": "[8.0.1, )"

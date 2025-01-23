@@ -1,1 +1,1 @@
-D:\TestCase\KaracanTestCase\KaracanTestCase.csproj;x64
+D:\UgurBerkantEdiz\TestCase\KaracanTestCase\KaracanTestCase.csproj;x64

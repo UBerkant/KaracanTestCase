@@ -12,49 +12,49 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = KaracanTestCase
-build_property.ProjectDir = D:\TestCase\KaracanTestCase\
+build_property.ProjectDir = D:\UgurBerkantEdiz\TestCase\KaracanTestCase\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
-[D:/TestCase/KaracanTestCase/App.xaml]
+[D:/UgurBerkantEdiz/TestCase/KaracanTestCase/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = KaracanTestCase.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 
-[D:/TestCase/KaracanTestCase/AppShell.xaml]
+[D:/UgurBerkantEdiz/TestCase/KaracanTestCase/AppShell.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = KaracanTestCase.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
-[D:/TestCase/KaracanTestCase/MainPage.xaml]
+[D:/UgurBerkantEdiz/TestCase/KaracanTestCase/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = KaracanTestCase.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
 
-[D:/TestCase/KaracanTestCase/Resources/Styles/Colors.xaml]
+[D:/UgurBerkantEdiz/TestCase/KaracanTestCase/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = KaracanTestCase.Resources.Styles.Colors.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
 
-[D:/TestCase/KaracanTestCase/Resources/Styles/Styles.xaml]
+[D:/UgurBerkantEdiz/TestCase/KaracanTestCase/Resources/Styles/Styles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = KaracanTestCase.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
 
-[D:/TestCase/KaracanTestCase/TaskEntry.xaml]
+[D:/UgurBerkantEdiz/TestCase/KaracanTestCase/TaskEntry.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = KaracanTestCase.TaskEntry.xaml
 build_metadata.AdditionalFiles.TargetPath = TaskEntry.xaml
 build_metadata.AdditionalFiles.RelativePath = TaskEntry.xaml
 
-[D:/TestCase/KaracanTestCase/TaskList.xaml]
+[D:/UgurBerkantEdiz/TestCase/KaracanTestCase/TaskList.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = KaracanTestCase.TaskList.xaml
 build_metadata.AdditionalFiles.TargetPath = TaskList.xaml

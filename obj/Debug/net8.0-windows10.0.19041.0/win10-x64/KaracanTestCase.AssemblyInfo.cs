@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KaracanTestCase")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+dc67c926c24ce5f29df1f81b0ed50cca5d7a8736")]
 [assembly: System.Reflection.AssemblyProductAttribute("KaracanTestCase")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KaracanTestCase")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

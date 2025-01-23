@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\TestCase\\KaracanTestCase\\KaracanTestCase.csproj": {}
+    "D:\\UgurBerkantEdiz\\TestCase\\KaracanTestCase\\KaracanTestCase.csproj": {}
   },
   "projects": {
-    "D:\\TestCase\\KaracanTestCase\\KaracanTestCase.csproj": {
+    "D:\\UgurBerkantEdiz\\TestCase\\KaracanTestCase\\KaracanTestCase.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\TestCase\\KaracanTestCase\\KaracanTestCase.csproj",
+        "projectUniqueName": "D:\\UgurBerkantEdiz\\TestCase\\KaracanTestCase\\KaracanTestCase.csproj",
         "projectName": "KaracanTestCase",
-        "projectPath": "D:\\TestCase\\KaracanTestCase\\KaracanTestCase.csproj",
+        "projectPath": "D:\\UgurBerkantEdiz\\TestCase\\KaracanTestCase\\KaracanTestCase.csproj",
         "packagesPath": "C:\\Users\\berka\\.nuget\\packages\\",
-        "outputPath": "D:\\TestCase\\KaracanTestCase\\obj\\",
+        "outputPath": "D:\\UgurBerkantEdiz\\TestCase\\KaracanTestCase\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [
@@ -67,6 +67,10 @@
         "net8.0-android34.0": {
           "targetAlias": "net8.0-android",
           "dependencies": {
+            "LiteDB": {
+              "target": "Package",
+              "version": "[5.0.21, )"
+            },
             "Microsoft.Extensions.Logging.Debug": {
               "target": "Package",
               "version": "[8.0.1, )"
@@ -132,6 +136,10 @@
         "net8.0-ios18.0": {
           "targetAlias": "net8.0-ios",
           "dependencies": {
+            "LiteDB": {
+              "target": "Package",
+              "version": "[5.0.21, )"
+            },
             "Microsoft.Extensions.Logging.Debug": {
               "target": "Package",
               "version": "[8.0.1, )"
@@ -185,6 +193,10 @@
         "net8.0-maccatalyst18.0": {
           "targetAlias": "net8.0-maccatalyst",
           "dependencies": {
+            "LiteDB": {
+              "target": "Package",
+              "version": "[5.0.21, )"
+            },
             "Microsoft.Extensions.Logging.Debug": {
               "target": "Package",
               "version": "[8.0.1, )"
@@ -239,6 +251,10 @@
         "net8.0-windows10.0.19041": {
           "targetAlias": "net8.0-windows10.0.19041.0",
           "dependencies": {
+            "LiteDB": {
+              "target": "Package",
+              "version": "[5.0.21, )"
+            },
             "Microsoft.Extensions.Logging.Debug": {
               "target": "Package",
               "version": "[8.0.1, )"
