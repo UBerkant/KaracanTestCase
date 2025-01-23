@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="KaracanTestCase.TaskEntry"
+             Title="Görev Ekle">
+    
+    <Shell.TitleView>
+        <StackLayout HorizontalOptions="CenterAndExpand" VerticalOptions="Center">
+            <Label Text="Görev Ekle" 
+                   FontSize="20" 
+                   HorizontalOptions="Center" 
+                   VerticalOptions="Center" />
+        </StackLayout>
+    </Shell.TitleView>
+    
+    <StackLayout Padding="20">
+        <Label Text="Görev Adı: " />
+        <Entry x:Name="TaskNameEntry" />
+        <Button Text="Görevi Kaydet" Clicked="SaveClicked" />
+    </StackLayout>
+</ContentPage>

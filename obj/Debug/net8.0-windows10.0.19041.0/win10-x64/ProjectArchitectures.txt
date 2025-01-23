@@ -1,0 +1,1 @@
+D:\TestCase\KaracanTestCase\KaracanTestCase.csproj;x64

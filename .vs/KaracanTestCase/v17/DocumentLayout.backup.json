@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TestCase\\KaracanTestCase\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E68C5C50-7829-47EE-AD78-C97FFF3C624E}|KaracanTestCase.csproj|d:\\testcase\\karacantestcase\\tasklist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E68C5C50-7829-47EE-AD78-C97FFF3C624E}|KaracanTestCase.csproj|solutionrelative:tasklist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E68C5C50-7829-47EE-AD78-C97FFF3C624E}|KaracanTestCase.csproj|d:\\testcase\\karacantestcase\\tasklist.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E68C5C50-7829-47EE-AD78-C97FFF3C624E}|KaracanTestCase.csproj|solutionrelative:tasklist.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E68C5C50-7829-47EE-AD78-C97FFF3C624E}|KaracanTestCase.csproj|d:\\testcase\\karacantestcase\\taskentry.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E68C5C50-7829-47EE-AD78-C97FFF3C624E}|KaracanTestCase.csproj|solutionrelative:taskentry.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E68C5C50-7829-47EE-AD78-C97FFF3C624E}|KaracanTestCase.csproj|d:\\testcase\\karacantestcase\\taskentry.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E68C5C50-7829-47EE-AD78-C97FFF3C624E}|KaracanTestCase.csproj|solutionrelative:taskentry.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E68C5C50-7829-47EE-AD78-C97FFF3C624E}|KaracanTestCase.csproj|d:\\testcase\\karacantestcase\\taskname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E68C5C50-7829-47EE-AD78-C97FFF3C624E}|KaracanTestCase.csproj|solutionrelative:taskname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E68C5C50-7829-47EE-AD78-C97FFF3C624E}|KaracanTestCase.csproj|d:\\testcase\\karacantestcase\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E68C5C50-7829-47EE-AD78-C97FFF3C624E}|KaracanTestCase.csproj|solutionrelative:mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E68C5C50-7829-47EE-AD78-C97FFF3C624E}|KaracanTestCase.csproj|d:\\testcase\\karacantestcase\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E68C5C50-7829-47EE-AD78-C97FFF3C624E}|KaracanTestCase.csproj|solutionrelative:mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E68C5C50-7829-47EE-AD78-C97FFF3C624E}|KaracanTestCase.csproj|d:\\testcase\\karacantestcase\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E68C5C50-7829-47EE-AD78-C97FFF3C624E}|KaracanTestCase.csproj|solutionrelative:taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E68C5C50-7829-47EE-AD78-C97FFF3C624E}|KaracanTestCase.csproj|d:\\testcase\\karacantestcase\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E68C5C50-7829-47EE-AD78-C97FFF3C624E}|KaracanTestCase.csproj|solutionrelative:appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaskList.xaml.cs",
+              "DocumentMoniker": "D:\\TestCase\\KaracanTestCase\\TaskList.xaml.cs",
+              "RelativeDocumentMoniker": "TaskList.xaml.cs",
+              "ToolTip": "D:\\TestCase\\KaracanTestCase\\TaskList.xaml.cs",
+              "RelativeToolTip": "TaskList.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T13:26:27.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaskList.xaml",
+              "DocumentMoniker": "D:\\TestCase\\KaracanTestCase\\TaskList.xaml",
+              "RelativeDocumentMoniker": "TaskList.xaml",
+              "ToolTip": "D:\\TestCase\\KaracanTestCase\\TaskList.xaml",
+              "RelativeToolTip": "TaskList.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-23T13:26:08.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "D:\\TestCase\\KaracanTestCase\\AppShell.xaml",
+              "RelativeDocumentMoniker": "AppShell.xaml",
+              "ToolTip": "D:\\TestCase\\KaracanTestCase\\AppShell.xaml",
+              "RelativeToolTip": "AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-23T13:25:21.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaskEntry.xaml.cs",
+              "DocumentMoniker": "D:\\TestCase\\KaracanTestCase\\TaskEntry.xaml.cs",
+              "RelativeDocumentMoniker": "TaskEntry.xaml.cs",
+              "ToolTip": "D:\\TestCase\\KaracanTestCase\\TaskEntry.xaml.cs",
+              "RelativeToolTip": "TaskEntry.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T12:34:49.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TaskEntry.xaml",
+              "DocumentMoniker": "D:\\TestCase\\KaracanTestCase\\TaskEntry.xaml",
+              "RelativeDocumentMoniker": "TaskEntry.xaml",
+              "ToolTip": "D:\\TestCase\\KaracanTestCase\\TaskEntry.xaml",
+              "RelativeToolTip": "TaskEntry.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-23T12:34:14.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TaskService.cs",
+              "DocumentMoniker": "D:\\TestCase\\KaracanTestCase\\TaskService.cs",
+              "RelativeDocumentMoniker": "TaskService.cs",
+              "ToolTip": "D:\\TestCase\\KaracanTestCase\\TaskService.cs",
+              "RelativeToolTip": "TaskService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T12:10:57.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TaskName.cs",
+              "DocumentMoniker": "D:\\TestCase\\KaracanTestCase\\TaskName.cs",
+              "RelativeDocumentMoniker": "TaskName.cs",
+              "ToolTip": "D:\\TestCase\\KaracanTestCase\\TaskName.cs",
+              "RelativeToolTip": "TaskName.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T12:03:58.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "D:\\TestCase\\KaracanTestCase\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "MainPage.xaml.cs",
+              "ToolTip": "D:\\TestCase\\KaracanTestCase\\MainPage.xaml.cs",
+              "RelativeToolTip": "MainPage.xaml.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T11:53:26.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "D:\\TestCase\\KaracanTestCase\\MainPage.xaml",
+              "RelativeDocumentMoniker": "MainPage.xaml",
+              "ToolTip": "D:\\TestCase\\KaracanTestCase\\MainPage.xaml",
+              "RelativeToolTip": "MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-23T10:33:13.001Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
